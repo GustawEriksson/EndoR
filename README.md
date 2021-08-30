@@ -5,7 +5,15 @@
                        | |___| | | || (_| || (_) || |\ \ 
                        \____/|_| |_| \__,_| \___/ \_| \_|
                        
- #An R pipeline for preprocessing and analysis of scRNA data from endometrium tissue 
- 
- 
+ README
+
+Author: Gustaw Eriksson
+
+Date: 06-06-2019
+
+Version: 1.0
+
+Contact: erikssongustaw@gmail.com
+
+# Introduction
  
