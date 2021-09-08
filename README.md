@@ -13,7 +13,7 @@ Date: 06-06-2019
 
 Version: 1.0
 
-Contact: erikssongustaw@gmail.com
+Contact: gustaw.eriksson@ki.se
 
 # Introduction
  
